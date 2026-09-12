@@ -101,6 +101,7 @@ tables.
 
   `q8_top_category_percentage.sql`    Percentage of revenue from each
                                       category
+                                      
   -----------------------------------------------------------------------
 "# mysql_data_analysis" 
 "# mysql_data_analysis" 
